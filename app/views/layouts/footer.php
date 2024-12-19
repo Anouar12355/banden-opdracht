@@ -5,8 +5,9 @@
                 <div class="grid md:grid-cols-3 gap-8">
                     <div>
                         <h4 class="text-lg font-semibold mb-4">Contact</h4>
-                        <p>Tel: 0123-456789</p>
-                        <p>Email: info@bwsn.nl</p>
+                        <p>Tel: <a href="tel:+31631961966" class="hover:text-accent">+31 6 319 619 66</a></p>
+                        <p>Email: <a href="mailto:info@bwsn.nl" class="hover:text-accent">info@bwsn.nl</a></p>
+                        <p class="mt-2"><a href="https://www.google.com/maps/search/?api=1&query=Oude+Middenweg+219,+2491AG+'s-Gravenhage" target="_blank" class="hover:text-accent">Oude Middenweg 219<br>2491AG 's-Gravenhage</a></p>
                     </div>
                     <div>
                         <h4 class="text-lg font-semibold mb-4">Links</h4>
