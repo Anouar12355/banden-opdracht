@@ -1,0 +1,23 @@
+:root {
+    --primary-dark: #26476c;
+    --primary-medium: #5eaecf;
+    --primary-light: #add7ed;
+    --accent: #f16b23;
+}
+
+.bg-primary-dark { background-color: var(--primary-dark); }
+.bg-primary-medium { background-color: var(--primary-medium); }
+.bg-primary-light { background-color: var(--primary-light); }
+.bg-accent { background-color: var(--accent); }
+
+.text-primary-dark { color: var(--primary-dark); }
+.text-primary-medium { color: var(--primary-medium); }
+.text-primary-light { color: var(--primary-light); }
+.text-accent { color: var(--accent); }
+
+.hover\:bg-accent:hover { background-color: var(--accent); }
+.hover\:text-accent:hover { color: var(--accent); }
+
+.border-primary-dark { border-color: var(--primary-dark); }
+.border-primary-light { border-color: var(--primary-light); }
+.hover\:border-accent:hover { border-color: var(--accent); }
